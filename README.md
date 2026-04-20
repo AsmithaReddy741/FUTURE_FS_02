@@ -22,5 +22,5 @@ This project is a Mini CRM system that allows users to manage client leads effic
 2. Open frontend:
    index.html
 
-## 👩‍💻 Author
+##  Author
 Asmitha Dyapa
