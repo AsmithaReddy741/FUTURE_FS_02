@@ -1,4 +1,4 @@
-const API = "https://your-backend.onrender.com";
+const API = "https://your-render-backend-url";
 
 // Add Lead
 function addLead() {
